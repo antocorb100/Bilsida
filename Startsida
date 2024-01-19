@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="sv">
+    <head>
+        <meta charset="utf-8">
+        <title>Ragges Bilar</title>
+        <link rel="stylesheet" href="CSS.css">
+    </head>
+
+    <body>
+        <h1>Ragges bilar AB</h1>
+        <img src="MulleMeck.jpg" width="600"><br>
+        <h2>Bilar i lager:</h2>
+        <ul>
+            <li>BMW kebabsläde - 300kr</li>
+            <li>Volvo 740 bredhäng - 400kr</li>
+            <li>SIttOchTräng - gratis</li>
+        </ul>
+      
+    </body>
+</html>
